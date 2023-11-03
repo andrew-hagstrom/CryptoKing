@@ -3,7 +3,7 @@ import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css'
 import React from 'react';
-import DropDown from '../dropdown';
+import DropDown from './components/dropdown';
 
 // import DropDown from '/Victor/day22/Crypto/src/components/drop-down.jsx';
 
